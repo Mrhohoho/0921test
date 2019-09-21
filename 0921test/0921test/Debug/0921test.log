@@ -1,0 +1,4 @@
+﻿  8.c
+C:\Users\Choi\Documents\GitHub\0921test\0921test\0921test\8.c(5,1) : warning C4305: '초기화 중': 'double'에서 'const float'(으)로 잘립니다.
+C:\Users\Choi\Documents\GitHub\0921test\0921test\0921test\8.c(11,8) : warning C4101: 'result' :참조되지 않은 지역 변수입니다.
+  0921test.vcxproj -> C:\Users\Choi\Documents\GitHub\0921test\0921test\Debug\0921test.exe
